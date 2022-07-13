@@ -1,0 +1,101 @@
+name,symbol,logo,price,market_cap,href
+Bitcoin,BTC,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png,"$19,855.96 ","$377,643,453,325 ",https://coinmarketcap.com/currencies/bitcoin/
+Ethereum,ETH,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png,"$1,074.17 ","$130,026,982,589 ",https://coinmarketcap.com/currencies/ethereum/
+Tether,USDT,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png,$1.00 ,"$65,905,582,002 ",https://coinmarketcap.com/currencies/tether/
+USD Coin,USDC,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png,$1.00 ,"$55,334,493,314 ",https://coinmarketcap.com/currencies/usd-coin/
+BNB,BNB,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png,$226.53 ,"$36,986,432,289 ",https://coinmarketcap.com/currencies/bnb/
+Binance USD,BUSD,https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png,$1.00 ,"$17,573,671,197 ",https://coinmarketcap.com/currencies/binance-usd/
+XRP,XRP,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png,$0.32 ,"$15,414,334,198 ",https://coinmarketcap.com/currencies/xrp/
+Cardano,ADA,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png,$0.43 ,"$14,446,114,805 ",https://coinmarketcap.com/currencies/cardano/
+Solana,SOL,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png,$33.76 ,"$11,665,562,925 ",https://coinmarketcap.com/currencies/solana/
+Dogecoin,DOGE,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png,$0.06 ,"$8,176,158,839 ",https://coinmarketcap.com/currencies/dogecoin/
+Dai,DAI,https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png,$1.00 ,"$6,878,847,763 ",https://coinmarketcap.com/currencies/multi-collateral-dai/
+Polkadot,DOT,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png,$6.48 ,"$6,396,824,969 ",https://coinmarketcap.com/currencies/polkadot-new/
+TRON,TRX,https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png,$0.07 ,"$6,080,026,407 ",https://coinmarketcap.com/currencies/tron/
+Shiba Inu,SHIB,https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png,$0.00 ,"$5,648,955,081 ",https://coinmarketcap.com/currencies/shiba-inu/
+UNUS SED LEO,LEO,https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png,$5.38 ,"$5,133,310,916 ",https://coinmarketcap.com/currencies/unus-sed-leo/
+Avalanche,AVAX,https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png,$17.49 ,"$4,958,901,777 ",https://coinmarketcap.com/currencies/avalanche/
+Wrapped Bitcoin,WBTC,https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png,"$19,741.97 ","$4,905,532,025 ",https://coinmarketcap.com/currencies/wrapped-bitcoin/
+Polygon,MATIC,https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png,$0.56 ,"$4,473,346,808 ",https://coinmarketcap.com/currencies/polygon/
+Uniswap,UNI,https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png,$5.68 ,"$4,156,874,534 ",https://coinmarketcap.com/currencies/uniswap/
+Litecoin,LTC,https://s2.coinmarketcap.com/static/img/coins/64x64/2.png,$48.96 ,"$3,451,396,307 ",https://coinmarketcap.com/currencies/litecoin/
+FTX Token,FTT,https://s2.coinmarketcap.com/static/img/coins/64x64/4195.png,$24.55 ,"$3,307,953,714 ",https://coinmarketcap.com/currencies/ftx-token/
+Cronos,CRO,https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png,$0.11 ,"$2,857,060,621 ",https://coinmarketcap.com/currencies/cronos/
+Chainlink,LINK,https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png,$6.11 ,"$2,854,597,672 ",https://coinmarketcap.com/currencies/chainlink/
+Stellar,XLM,https://s2.coinmarketcap.com/static/img/coins/64x64/512.png,$0.10 ,"$2,590,627,613 ",https://coinmarketcap.com/currencies/stellar/
+NEAR Protocol,NEAR,https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png,$3.28 ,"$2,400,127,627 ",https://coinmarketcap.com/currencies/near-protocol/
+Cosmos,ATOM,https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png,$7.94 ,"$2,273,287,541 ",https://coinmarketcap.com/currencies/cosmos/
+Monero,XMR,https://s2.coinmarketcap.com/static/img/coins/64x64/328.png,$124.84 ,"$2,265,484,645 ",https://coinmarketcap.com/currencies/monero/
+Algorand,ALGO,https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png,$0.31 ,"$2,126,629,634 ",https://coinmarketcap.com/currencies/algorand/
+Ethereum Classic,ETC,https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png,$14.19 ,"$1,921,956,292 ",https://coinmarketcap.com/currencies/ethereum-classic/
+Bitcoin Cash,BCH,https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png,$100.57 ,"$1,921,517,167 ",https://coinmarketcap.com/currencies/bitcoin-cash/
+VeChain,VET,https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png,$0.02 ,"$1,596,333,273 ",https://coinmarketcap.com/currencies/vechain/
+Internet Computer,ICP,https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png,$6.34 ,"$1,572,881,995 ",https://coinmarketcap.com/currencies/internet-computer/
+Flow,FLOW,https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png,$1.49 ,"$1,548,956,081 ",https://coinmarketcap.com/currencies/flow/
+Decentraland,MANA,https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png,$0.81 ,"$1,496,533,153 ",https://coinmarketcap.com/currencies/decentraland/
+The Sandbox,SAND,https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png,$1.13 ,"$1,420,053,515 ",https://coinmarketcap.com/currencies/the-sandbox/
+ApeCoin,APE,https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png,$4.52 ,"$1,352,533,460 ",https://coinmarketcap.com/currencies/apecoin-ape/
+Tezos,XTZ,https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png,$1.49 ,"$1,341,547,565 ",https://coinmarketcap.com/currencies/tezos/
+Hedera,HBAR,https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png,$0.06 ,"$1,288,269,944 ",https://coinmarketcap.com/currencies/hedera/
+Filecoin,FIL,https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png,$5.25 ,"$1,225,862,692 ",https://coinmarketcap.com/currencies/filecoin/
+TrueUSD,TUSD,https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png,$1.00 ,"$1,224,692,405 ",https://coinmarketcap.com/currencies/trueusd/
+Theta Network,THETA,https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png,$1.13 ,"$1,131,415,641 ",https://coinmarketcap.com/currencies/theta-network/
+Elrond,EGLD,https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png,$49.95 ,"$1,126,844,822 ",https://coinmarketcap.com/currencies/elrond-egld/
+Axie Infinity,AXS,https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png,$13.25 ,"$1,093,066,384 ",https://coinmarketcap.com/currencies/axie-infinity/
+Helium,HNT,https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png,$8.74 ,"$1,063,356,832 ",https://coinmarketcap.com/currencies/helium/
+Quant,QNT,https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png,$83.64 ,"$1,009,815,544 ",https://coinmarketcap.com/currencies/quant/
+Aave,AAVE,https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png,$71.62 ,"$996,712,358 ",https://coinmarketcap.com/currencies/aave/
+Bitcoin SV,BSV,https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png,$51.03 ,"$975,264,688 ",https://coinmarketcap.com/currencies/bitcoin-sv/
+Pax Dollar,USDP,https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png,$1.00 ,"$948,251,239 ",https://coinmarketcap.com/currencies/paxos-standard/
+EOS,EOS,https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png,$0.94 ,"$933,802,926 ",https://coinmarketcap.com/currencies/eos/
+KuCoin Token,KCS,https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png,$8.89 ,"$875,064,487 ",https://coinmarketcap.com/currencies/kucoin-token/
+Maker,MKR,https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png,$853.13 ,"$834,048,844 ",https://coinmarketcap.com/currencies/maker/
+Zcash,ZEC,https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png,$53.26 ,"$788,803,335 ",https://coinmarketcap.com/currencies/zcash/
+BitTorrent-New,BTT,https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png,$0.00 ,"$769,298,278 ",https://coinmarketcap.com/currencies/bittorrent-new/
+Neutrino USD,USDN,https://s2.coinmarketcap.com/static/img/coins/64x64/5068.png,$0.99 ,"$750,936,618 ",https://coinmarketcap.com/currencies/neutrino-usd/
+eCash,XEC,https://s2.coinmarketcap.com/static/img/coins/64x64/10791.png,$0.00 ,"$736,003,634 ",https://coinmarketcap.com/currencies/ecash/
+IOTA,MIOTA,https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png,$0.26 ,"$731,205,146 ",https://coinmarketcap.com/currencies/iota/
+OKB,OKB,https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png,$12.13 ,"$727,695,238 ",https://coinmarketcap.com/currencies/okb/
+USDD,USDD,https://s2.coinmarketcap.com/static/img/coins/64x64/19891.png,$1.00 ,"$720,142,238 ",https://coinmarketcap.com/currencies/usdd/
+Huobi Token,HT,https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png,$4.42 ,"$682,478,639 ",https://coinmarketcap.com/currencies/huobi-token/
+THORChain,RUNE,https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png,$2.04 ,"$673,736,538 ",https://coinmarketcap.com/currencies/thorchain/
+Klaytn,KLAY,https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png,$0.22 ,"$643,661,424 ",https://coinmarketcap.com/currencies/klaytn/
+The Graph,GRT,https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png,$0.09 ,"$635,572,574 ",https://coinmarketcap.com/currencies/the-graph/
+Fantom,FTM,https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png,$0.24 ,"$608,074,897 ",https://coinmarketcap.com/currencies/fantom/
+Chiliz,CHZ,https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png,$0.10 ,"$604,368,537 ",https://coinmarketcap.com/currencies/chiliz/
+Neo,NEO,https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png,$8.31 ,"$584,141,597 ",https://coinmarketcap.com/currencies/neo/
+PAX Gold,PAXG,https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png,"$1,728.19 ","$576,146,197 ",https://coinmarketcap.com/currencies/pax-gold/
+Basic Attention Token,BAT,https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png,$0.37 ,"$559,634,740 ",https://coinmarketcap.com/currencies/basic-attention-token/
+STEPN,GMT,https://s2.coinmarketcap.com/static/img/coins/64x64/18069.png,$0.88 ,"$529,853,136 ",https://coinmarketcap.com/currencies/green-metaverse-token/
+Waves,WAVES,https://s2.coinmarketcap.com/static/img/coins/64x64/1274.png,$4.84 ,"$524,404,560 ",https://coinmarketcap.com/currencies/waves/
+Curve DAO Token,CRV,https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png,$0.95 ,"$509,784,337 ",https://coinmarketcap.com/currencies/curve-dao-token/
+Loopring,LRC,https://s2.coinmarketcap.com/static/img/coins/64x64/1934.png,$0.37 ,"$492,356,753 ",https://coinmarketcap.com/currencies/loopring/
+Stacks,STX,https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png,$0.37 ,"$488,982,157 ",https://coinmarketcap.com/currencies/stacks/
+Zilliqa,ZIL,https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png,$0.04 ,"$483,781,333 ",https://coinmarketcap.com/currencies/zilliqa/
+Dash,DASH,https://s2.coinmarketcap.com/static/img/coins/64x64/131.png,$41.27 ,"$446,346,369 ",https://coinmarketcap.com/currencies/dash/
+Enjin Coin,ENJ,https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png,$0.48 ,"$429,722,184 ",https://coinmarketcap.com/currencies/enjin-coin/
+PancakeSwap,CAKE,https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png,$2.98 ,"$425,517,163 ",https://coinmarketcap.com/currencies/pancakeswap/
+Fei USD,FEI,https://s2.coinmarketcap.com/static/img/coins/64x64/8642.png,$0.99 ,"$420,422,780 ",https://coinmarketcap.com/currencies/fei-usd/
+TerraClassicUSD,USTC,https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png,$0.04 ,"$415,923,254 ",https://coinmarketcap.com/currencies/terrausd/
+Kusama,KSM,https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png,$48.37 ,"$409,734,281 ",https://coinmarketcap.com/currencies/kusama/
+Mina,MINA,https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png,$0.65 ,"$379,807,091 ",https://coinmarketcap.com/currencies/mina/
+Arweave,AR,https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png,$11.37 ,"$379,711,712 ",https://coinmarketcap.com/currencies/arweave/
+Amp,AMP,https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png,$0.01 ,"$376,924,453 ",https://coinmarketcap.com/currencies/amp/
+Celo,CELO,https://s2.coinmarketcap.com/static/img/coins/64x64/5567.png,$0.83 ,"$373,852,090 ",https://coinmarketcap.com/currencies/celo/
+Kava,KAVA,https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png,$1.63 ,"$368,299,137 ",https://coinmarketcap.com/currencies/kava/
+Convex Finance,CVX,https://s2.coinmarketcap.com/static/img/coins/64x64/9903.png,$5.53 ,"$357,458,399 ",https://coinmarketcap.com/currencies/convex-finance/
+NEM,XEM,https://s2.coinmarketcap.com/static/img/coins/64x64/873.png,$0.04 ,"$344,988,453 ",https://coinmarketcap.com/currencies/nem/
+Compound,COMP,https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png,$48.10 ,"$344,282,835 ",https://coinmarketcap.com/currencies/compound/
+Gala,GALA,https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png,$0.05 ,"$343,302,553 ",https://coinmarketcap.com/currencies/gala/
+Holo,HOT,https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png,$0.00 ,"$340,228,058 ",https://coinmarketcap.com/currencies/holo/
+Nexo,NEXO,https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png,$0.60 ,"$337,893,361 ",https://coinmarketcap.com/currencies/nexo/
+1inch Network,1INCH,https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png,$0.59 ,"$327,379,986 ",https://coinmarketcap.com/currencies/1inch/
+XDC Network,XDC,https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png,$0.03 ,"$320,651,190 ",https://coinmarketcap.com/currencies/xinfin/
+Decred,DCR,https://s2.coinmarketcap.com/static/img/coins/64x64/1168.png,$21.38 ,"$303,219,255 ",https://coinmarketcap.com/currencies/decred/
+GateToken,GT,https://s2.coinmarketcap.com/static/img/coins/64x64/4269.png,$3.79 ,"$296,986,055 ",https://coinmarketcap.com/currencies/gatetoken/
+Symbol,XYM,https://s2.coinmarketcap.com/static/img/coins/64x64/8677.png,$0.05 ,"$280,341,654 ",https://coinmarketcap.com/currencies/symbol/
+Qtum,QTUM,https://s2.coinmarketcap.com/static/img/coins/64x64/1684.png,$2.68 ,"$279,765,966 ",https://coinmarketcap.com/currencies/qtum/
+Serum,SRM,https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png,$1.06 ,"$279,128,173 ",https://coinmarketcap.com/currencies/serum/
+Kadena,KDA,https://s2.coinmarketcap.com/static/img/coins/64x64/5647.png,$1.51 ,"$279,066,954 ",https://coinmarketcap.com/currencies/kadena/
+Gnosis,GNO,https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png,$107.71 ,"$277,836,331 ",https://coinmarketcap.com/currencies/gnosis-gno/
+Synthetix,SNX,https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png,$2.38 ,"$273,871,103 ",https://coinmarketcap.com/currencies/synthetix-network-token/

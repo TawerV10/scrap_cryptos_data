@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+        "price": "$19,855.96",
+        "market_cap": "$377,643,453,325",
+        "href": "https://coinmarketcap.com/currencies/bitcoin/"
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "price": "$1,074.17",
+        "market_cap": "$130,026,982,589",
+        "href": "https://coinmarketcap.com/currencies/ethereum/"
+    },
+    {
+        "name": "Tether",
+        "symbol": "USDT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+        "price": "$0.9993",
+        "market_cap": "$65,905,582,002",
+        "href": "https://coinmarketcap.com/currencies/tether/"
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+        "price": "$1.00",
+        "market_cap": "$55,334,493,314",
+        "href": "https://coinmarketcap.com/currencies/usd-coin/"
+    },
+    {
+        "name": "BNB",
+        "symbol": "BNB",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+        "price": "$226.53",
+        "market_cap": "$36,986,432,289",
+        "href": "https://coinmarketcap.com/currencies/bnb/"
+    },
+    {
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
+        "price": "$1.00",
+        "market_cap": "$17,573,671,197",
+        "href": "https://coinmarketcap.com/currencies/binance-usd/"
+    },
+    {
+        "name": "XRP",
+        "symbol": "XRP",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+        "price": "$0.3189",
+        "market_cap": "$15,414,334,198",
+        "href": "https://coinmarketcap.com/currencies/xrp/"
+    },
+    {
+        "name": "Cardano",
+        "symbol": "ADA",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+        "price": "$0.4282",
+        "market_cap": "$14,446,114,805",
+        "href": "https://coinmarketcap.com/currencies/cardano/"
+    },
+    {
+        "name": "Solana",
+        "symbol": "SOL",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+        "price": "$33.76",
+        "market_cap": "$11,665,562,925",
+        "href": "https://coinmarketcap.com/currencies/solana/"
+    },
+    {
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+        "price": "$0.06163",
+        "market_cap": "$8,176,158,839",
+        "href": "https://coinmarketcap.com/currencies/dogecoin/"
+    },
+    {
+        "name": "Dai",
+        "symbol": "DAI",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+        "price": "$1.00",
+        "market_cap": "$6,878,847,763",
+        "href": "https://coinmarketcap.com/currencies/multi-collateral-dai/"
+    },
+    {
+        "name": "Polkadot",
+        "symbol": "DOT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+        "price": "$6.48",
+        "market_cap": "$6,396,824,969",
+        "href": "https://coinmarketcap.com/currencies/polkadot-new/"
+    },
+    {
+        "name": "TRON",
+        "symbol": "TRX",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+        "price": "$0.06575",
+        "market_cap": "$6,080,026,407",
+        "href": "https://coinmarketcap.com/currencies/tron/"
+    },
+    {
+        "name": "Shiba Inu",
+        "symbol": "SHIB",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png",
+        "price": "$0.00001029",
+        "market_cap": "$5,648,955,081",
+        "href": "https://coinmarketcap.com/currencies/shiba-inu/"
+    },
+    {
+        "name": "UNUS SED LEO",
+        "symbol": "LEO",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png",
+        "price": "$5.38",
+        "market_cap": "$5,133,310,916",
+        "href": "https://coinmarketcap.com/currencies/unus-sed-leo/"
+    },
+    {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+        "price": "$17.49",
+        "market_cap": "$4,958,901,777",
+        "href": "https://coinmarketcap.com/currencies/avalanche/"
+    },
+    {
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+        "price": "$19,741.97",
+        "market_cap": "$4,905,532,025",
+        "href": "https://coinmarketcap.com/currencies/wrapped-bitcoin/"
+    },
+    {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+        "price": "$0.5587",
+        "market_cap": "$4,473,346,808",
+        "href": "https://coinmarketcap.com/currencies/polygon/"
+    },
+    {
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+        "price": "$5.68",
+        "market_cap": "$4,156,874,534",
+        "href": "https://coinmarketcap.com/currencies/uniswap/"
+    },
+    {
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+        "price": "$48.96",
+        "market_cap": "$3,451,396,307",
+        "href": "https://coinmarketcap.com/currencies/litecoin/"
+    },
+    {
+        "name": "FTX Token",
+        "symbol": "FTT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4195.png",
+        "price": "$24.55",
+        "market_cap": "$3,307,953,714",
+        "href": "https://coinmarketcap.com/currencies/ftx-token/"
+    },
+    {
+        "name": "Cronos",
+        "symbol": "CRO",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
+        "price": "$0.1131",
+        "market_cap": "$2,857,060,621",
+        "href": "https://coinmarketcap.com/currencies/cronos/"
+    },
+    {
+        "name": "Chainlink",
+        "symbol": "LINK",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+        "price": "$6.11",
+        "market_cap": "$2,854,597,672",
+        "href": "https://coinmarketcap.com/currencies/chainlink/"
+    },
+    {
+        "name": "Stellar",
+        "symbol": "XLM",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+        "price": "$0.1036",
+        "market_cap": "$2,590,627,613",
+        "href": "https://coinmarketcap.com/currencies/stellar/"
+    },
+    {
+        "name": "NEAR Protocol",
+        "symbol": "NEAR",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+        "price": "$3.28",
+        "market_cap": "$2,400,127,627",
+        "href": "https://coinmarketcap.com/currencies/near-protocol/"
+    },
+    {
+        "name": "Cosmos",
+        "symbol": "ATOM",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+        "price": "$7.94",
+        "market_cap": "$2,273,287,541",
+        "href": "https://coinmarketcap.com/currencies/cosmos/"
+    },
+    {
+        "name": "Monero",
+        "symbol": "XMR",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
+        "price": "$124.84",
+        "market_cap": "$2,265,484,645",
+        "href": "https://coinmarketcap.com/currencies/monero/"
+    },
+    {
+        "name": "Algorand",
+        "symbol": "ALGO",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
+        "price": "$0.3071",
+        "market_cap": "$2,126,629,634",
+        "href": "https://coinmarketcap.com/currencies/algorand/"
+    },
+    {
+        "name": "Ethereum Classic",
+        "symbol": "ETC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+        "price": "$14.19",
+        "market_cap": "$1,921,956,292",
+        "href": "https://coinmarketcap.com/currencies/ethereum-classic/"
+    },
+    {
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+        "price": "$100.57",
+        "market_cap": "$1,921,517,167",
+        "href": "https://coinmarketcap.com/currencies/bitcoin-cash/"
+    },
+    {
+        "name": "VeChain",
+        "symbol": "VET",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png",
+        "price": "$0.02202",
+        "market_cap": "$1,596,333,273",
+        "href": "https://coinmarketcap.com/currencies/vechain/"
+    },
+    {
+        "name": "Internet Computer",
+        "symbol": "ICP",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png",
+        "price": "$6.34",
+        "market_cap": "$1,572,881,995",
+        "href": "https://coinmarketcap.com/currencies/internet-computer/"
+    },
+    {
+        "name": "Flow",
+        "symbol": "FLOW",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png",
+        "price": "$1.49",
+        "market_cap": "$1,548,956,081",
+        "href": "https://coinmarketcap.com/currencies/flow/"
+    },
+    {
+        "name": "Decentraland",
+        "symbol": "MANA",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+        "price": "$0.8122",
+        "market_cap": "$1,496,533,153",
+        "href": "https://coinmarketcap.com/currencies/decentraland/"
+    },
+    {
+        "name": "The Sandbox",
+        "symbol": "SAND",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
+        "price": "$1.13",
+        "market_cap": "$1,420,053,515",
+        "href": "https://coinmarketcap.com/currencies/the-sandbox/"
+    },
+    {
+        "name": "ApeCoin",
+        "symbol": "APE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png",
+        "price": "$4.52",
+        "market_cap": "$1,352,533,460",
+        "href": "https://coinmarketcap.com/currencies/apecoin-ape/"
+    },
+    {
+        "name": "Tezos",
+        "symbol": "XTZ",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+        "price": "$1.49",
+        "market_cap": "$1,341,547,565",
+        "href": "https://coinmarketcap.com/currencies/tezos/"
+    },
+    {
+        "name": "Hedera",
+        "symbol": "HBAR",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png",
+        "price": "$0.0611",
+        "market_cap": "$1,288,269,944",
+        "href": "https://coinmarketcap.com/currencies/hedera/"
+    },
+    {
+        "name": "Filecoin",
+        "symbol": "FIL",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
+        "price": "$5.25",
+        "market_cap": "$1,225,862,692",
+        "href": "https://coinmarketcap.com/currencies/filecoin/"
+    },
+    {
+        "name": "TrueUSD",
+        "symbol": "TUSD",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png",
+        "price": "$1.00",
+        "market_cap": "$1,224,692,405",
+        "href": "https://coinmarketcap.com/currencies/trueusd/"
+    },
+    {
+        "name": "Theta Network",
+        "symbol": "THETA",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png",
+        "price": "$1.13",
+        "market_cap": "$1,131,415,641",
+        "href": "https://coinmarketcap.com/currencies/theta-network/"
+    },
+    {
+        "name": "Elrond",
+        "symbol": "EGLD",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png",
+        "price": "$49.95",
+        "market_cap": "$1,126,844,822",
+        "href": "https://coinmarketcap.com/currencies/elrond-egld/"
+    },
+    {
+        "name": "Axie Infinity",
+        "symbol": "AXS",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png",
+        "price": "$13.25",
+        "market_cap": "$1,093,066,384",
+        "href": "https://coinmarketcap.com/currencies/axie-infinity/"
+    },
+    {
+        "name": "Helium",
+        "symbol": "HNT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png",
+        "price": "$8.74",
+        "market_cap": "$1,063,356,832",
+        "href": "https://coinmarketcap.com/currencies/helium/"
+    },
+    {
+        "name": "Quant",
+        "symbol": "QNT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+        "price": "$83.64",
+        "market_cap": "$1,009,815,544",
+        "href": "https://coinmarketcap.com/currencies/quant/"
+    },
+    {
+        "name": "Aave",
+        "symbol": "AAVE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+        "price": "$71.62",
+        "market_cap": "$996,712,358",
+        "href": "https://coinmarketcap.com/currencies/aave/"
+    },
+    {
+        "name": "Bitcoin SV",
+        "symbol": "BSV",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png",
+        "price": "$51.03",
+        "market_cap": "$975,264,688",
+        "href": "https://coinmarketcap.com/currencies/bitcoin-sv/"
+    },
+    {
+        "name": "Pax Dollar",
+        "symbol": "USDP",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png",
+        "price": "$1.00",
+        "market_cap": "$948,251,239",
+        "href": "https://coinmarketcap.com/currencies/paxos-standard/"
+    },
+    {
+        "name": "EOS",
+        "symbol": "EOS",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+        "price": "$0.9391",
+        "market_cap": "$933,802,926",
+        "href": "https://coinmarketcap.com/currencies/eos/"
+    },
+    {
+        "name": "KuCoin Token",
+        "symbol": "KCS",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png",
+        "price": "$8.89",
+        "market_cap": "$875,064,487",
+        "href": "https://coinmarketcap.com/currencies/kucoin-token/"
+    },
+    {
+        "name": "Maker",
+        "symbol": "MKR",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+        "price": "$853.13",
+        "market_cap": "$834,048,844",
+        "href": "https://coinmarketcap.com/currencies/maker/"
+    },
+    {
+        "name": "Zcash",
+        "symbol": "ZEC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
+        "price": "$53.26",
+        "market_cap": "$788,803,335",
+        "href": "https://coinmarketcap.com/currencies/zcash/"
+    },
+    {
+        "name": "BitTorrent-New",
+        "symbol": "BTT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png",
+        "price": "$0.000000823",
+        "market_cap": "$769,298,278",
+        "href": "https://coinmarketcap.com/currencies/bittorrent-new/"
+    },
+    {
+        "name": "Neutrino USD",
+        "symbol": "USDN",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5068.png",
+        "price": "$0.9919",
+        "market_cap": "$750,936,618",
+        "href": "https://coinmarketcap.com/currencies/neutrino-usd/"
+    },
+    {
+        "name": "eCash",
+        "symbol": "XEC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10791.png",
+        "price": "$0.00003851",
+        "market_cap": "$736,003,634",
+        "href": "https://coinmarketcap.com/currencies/ecash/"
+    },
+    {
+        "name": "IOTA",
+        "symbol": "MIOTA",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png",
+        "price": "$0.2631",
+        "market_cap": "$731,205,146",
+        "href": "https://coinmarketcap.com/currencies/iota/"
+    },
+    {
+        "name": "OKB",
+        "symbol": "OKB",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png",
+        "price": "$12.13",
+        "market_cap": "$727,695,238",
+        "href": "https://coinmarketcap.com/currencies/okb/"
+    },
+    {
+        "name": "USDD",
+        "symbol": "USDD",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19891.png",
+        "price": "$0.9956",
+        "market_cap": "$720,142,238",
+        "href": "https://coinmarketcap.com/currencies/usdd/"
+    },
+    {
+        "name": "Huobi Token",
+        "symbol": "HT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png",
+        "price": "$4.42",
+        "market_cap": "$682,478,639",
+        "href": "https://coinmarketcap.com/currencies/huobi-token/"
+    },
+    {
+        "name": "THORChain",
+        "symbol": "RUNE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png",
+        "price": "$2.04",
+        "market_cap": "$673,736,538",
+        "href": "https://coinmarketcap.com/currencies/thorchain/"
+    },
+    {
+        "name": "Klaytn",
+        "symbol": "KLAY",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
+        "price": "$0.2207",
+        "market_cap": "$643,661,424",
+        "href": "https://coinmarketcap.com/currencies/klaytn/"
+    },
+    {
+        "name": "The Graph",
+        "symbol": "GRT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png",
+        "price": "$0.09211",
+        "market_cap": "$635,572,574",
+        "href": "https://coinmarketcap.com/currencies/the-graph/"
+    },
+    {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
+        "price": "$0.2402",
+        "market_cap": "$608,074,897",
+        "href": "https://coinmarketcap.com/currencies/fantom/"
+    },
+    {
+        "name": "Chiliz",
+        "symbol": "CHZ",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png",
+        "price": "$0.1007",
+        "market_cap": "$604,368,537",
+        "href": "https://coinmarketcap.com/currencies/chiliz/"
+    },
+    {
+        "name": "Neo",
+        "symbol": "NEO",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png",
+        "price": "$8.31",
+        "market_cap": "$584,141,597",
+        "href": "https://coinmarketcap.com/currencies/neo/"
+    },
+    {
+        "name": "PAX Gold",
+        "symbol": "PAXG",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png",
+        "price": "$1,728.19",
+        "market_cap": "$576,146,197",
+        "href": "https://coinmarketcap.com/currencies/pax-gold/"
+    },
+    {
+        "name": "Basic Attention Token",
+        "symbol": "BAT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
+        "price": "$0.3749",
+        "market_cap": "$559,634,740",
+        "href": "https://coinmarketcap.com/currencies/basic-attention-token/"
+    },
+    {
+        "name": "STEPN",
+        "symbol": "GMT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/18069.png",
+        "price": "$0.8844",
+        "market_cap": "$529,853,136",
+        "href": "https://coinmarketcap.com/currencies/green-metaverse-token/"
+    },
+    {
+        "name": "Waves",
+        "symbol": "WAVES",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1274.png",
+        "price": "$4.84",
+        "market_cap": "$524,404,560",
+        "href": "https://coinmarketcap.com/currencies/waves/"
+    },
+    {
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png",
+        "price": "$0.9481",
+        "market_cap": "$509,784,337",
+        "href": "https://coinmarketcap.com/currencies/curve-dao-token/"
+    },
+    {
+        "name": "Loopring",
+        "symbol": "LRC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1934.png",
+        "price": "$0.3702",
+        "market_cap": "$492,356,753",
+        "href": "https://coinmarketcap.com/currencies/loopring/"
+    },
+    {
+        "name": "Stacks",
+        "symbol": "STX",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png",
+        "price": "$0.3699",
+        "market_cap": "$488,982,157",
+        "href": "https://coinmarketcap.com/currencies/stacks/"
+    },
+    {
+        "name": "Zilliqa",
+        "symbol": "ZIL",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png",
+        "price": "$0.0371",
+        "market_cap": "$483,781,333",
+        "href": "https://coinmarketcap.com/currencies/zilliqa/"
+    },
+    {
+        "name": "Dash",
+        "symbol": "DASH",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png",
+        "price": "$41.27",
+        "market_cap": "$446,346,369",
+        "href": "https://coinmarketcap.com/currencies/dash/"
+    },
+    {
+        "name": "Enjin Coin",
+        "symbol": "ENJ",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png",
+        "price": "$0.4799",
+        "market_cap": "$429,722,184",
+        "href": "https://coinmarketcap.com/currencies/enjin-coin/"
+    },
+    {
+        "name": "PancakeSwap",
+        "symbol": "CAKE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
+        "price": "$2.98",
+        "market_cap": "$425,517,163",
+        "href": "https://coinmarketcap.com/currencies/pancakeswap/"
+    },
+    {
+        "name": "Fei USD",
+        "symbol": "FEI",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8642.png",
+        "price": "$0.9892",
+        "market_cap": "$420,422,780",
+        "href": "https://coinmarketcap.com/currencies/fei-usd/"
+    },
+    {
+        "name": "TerraClassicUSD",
+        "symbol": "USTC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png",
+        "price": "$0.04237",
+        "market_cap": "$415,923,254",
+        "href": "https://coinmarketcap.com/currencies/terrausd/"
+    },
+    {
+        "name": "Kusama",
+        "symbol": "KSM",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png",
+        "price": "$48.37",
+        "market_cap": "$409,734,281",
+        "href": "https://coinmarketcap.com/currencies/kusama/"
+    },
+    {
+        "name": "Mina",
+        "symbol": "MINA",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png",
+        "price": "$0.6485",
+        "market_cap": "$379,807,091",
+        "href": "https://coinmarketcap.com/currencies/mina/"
+    },
+    {
+        "name": "Arweave",
+        "symbol": "AR",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png",
+        "price": "$11.37",
+        "market_cap": "$379,711,712",
+        "href": "https://coinmarketcap.com/currencies/arweave/"
+    },
+    {
+        "name": "Amp",
+        "symbol": "AMP",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png",
+        "price": "$0.008926",
+        "market_cap": "$376,924,453",
+        "href": "https://coinmarketcap.com/currencies/amp/"
+    },
+    {
+        "name": "Celo",
+        "symbol": "CELO",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5567.png",
+        "price": "$0.8292",
+        "market_cap": "$373,852,090",
+        "href": "https://coinmarketcap.com/currencies/celo/"
+    },
+    {
+        "name": "Kava",
+        "symbol": "KAVA",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png",
+        "price": "$1.63",
+        "market_cap": "$368,299,137",
+        "href": "https://coinmarketcap.com/currencies/kava/"
+    },
+    {
+        "name": "Convex Finance",
+        "symbol": "CVX",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9903.png",
+        "price": "$5.53",
+        "market_cap": "$357,458,399",
+        "href": "https://coinmarketcap.com/currencies/convex-finance/"
+    },
+    {
+        "name": "NEM",
+        "symbol": "XEM",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/873.png",
+        "price": "$0.03833",
+        "market_cap": "$344,988,453",
+        "href": "https://coinmarketcap.com/currencies/nem/"
+    },
+    {
+        "name": "Compound",
+        "symbol": "COMP",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
+        "price": "$48.10",
+        "market_cap": "$344,282,835",
+        "href": "https://coinmarketcap.com/currencies/compound/"
+    },
+    {
+        "name": "Gala",
+        "symbol": "GALA",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png",
+        "price": "$0.0492",
+        "market_cap": "$343,302,553",
+        "href": "https://coinmarketcap.com/currencies/gala/"
+    },
+    {
+        "name": "Holo",
+        "symbol": "HOT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png",
+        "price": "$0.001963",
+        "market_cap": "$340,228,058",
+        "href": "https://coinmarketcap.com/currencies/holo/"
+    },
+    {
+        "name": "Nexo",
+        "symbol": "NEXO",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png",
+        "price": "$0.6034",
+        "market_cap": "$337,893,361",
+        "href": "https://coinmarketcap.com/currencies/nexo/"
+    },
+    {
+        "name": "1inch Network",
+        "symbol": "1INCH",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png",
+        "price": "$0.5856",
+        "market_cap": "$327,379,986",
+        "href": "https://coinmarketcap.com/currencies/1inch/"
+    },
+    {
+        "name": "XDC Network",
+        "symbol": "XDC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png",
+        "price": "$0.02606",
+        "market_cap": "$320,651,190",
+        "href": "https://coinmarketcap.com/currencies/xinfin/"
+    },
+    {
+        "name": "Decred",
+        "symbol": "DCR",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1168.png",
+        "price": "$21.38",
+        "market_cap": "$303,219,255",
+        "href": "https://coinmarketcap.com/currencies/decred/"
+    },
+    {
+        "name": "GateToken",
+        "symbol": "GT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4269.png",
+        "price": "$3.79",
+        "market_cap": "$296,986,055",
+        "href": "https://coinmarketcap.com/currencies/gatetoken/"
+    },
+    {
+        "name": "Symbol",
+        "symbol": "XYM",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8677.png",
+        "price": "$0.05022",
+        "market_cap": "$280,341,654",
+        "href": "https://coinmarketcap.com/currencies/symbol/"
+    },
+    {
+        "name": "Qtum",
+        "symbol": "QTUM",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1684.png",
+        "price": "$2.68",
+        "market_cap": "$279,765,966",
+        "href": "https://coinmarketcap.com/currencies/qtum/"
+    },
+    {
+        "name": "Serum",
+        "symbol": "SRM",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png",
+        "price": "$1.06",
+        "market_cap": "$279,128,173",
+        "href": "https://coinmarketcap.com/currencies/serum/"
+    },
+    {
+        "name": "Kadena",
+        "symbol": "KDA",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5647.png",
+        "price": "$1.51",
+        "market_cap": "$279,066,954",
+        "href": "https://coinmarketcap.com/currencies/kadena/"
+    },
+    {
+        "name": "Gnosis",
+        "symbol": "GNO",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png",
+        "price": "$107.71",
+        "market_cap": "$277,836,331",
+        "href": "https://coinmarketcap.com/currencies/gnosis-gno/"
+    },
+    {
+        "name": "Synthetix",
+        "symbol": "SNX",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png",
+        "price": "$2.38",
+        "market_cap": "$273,871,103",
+        "href": "https://coinmarketcap.com/currencies/synthetix-network-token/"
+    }
+]
